@@ -1,1 +1,2 @@
-zmiana dotycząca pliku txt
+Ala ma psa o imieniu Maja.
+
